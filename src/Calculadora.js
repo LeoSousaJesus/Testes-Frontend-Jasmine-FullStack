@@ -3,7 +3,7 @@ const soma = function(num1, num2) {
     return num1 + num2;
 }
  
-// Função subtracao que recebe dois números e retorna a subtração do segundo número do primeiro
+// Função subtracao que recebe dois números e retorna a subtração do segundo número pelo primeiro
 const subtracao = function(num1, num2) {
     return num1 - num2;
 }
@@ -13,7 +13,7 @@ const multiplicacao = function(num1, num2) {
     return num1 * num2;
 }
  
-// Função divisao que recebe dois números e retorna a divisão do primeiro número pelo segundo
+// Função divisao que recebe dois números e retorna a divisão do primeiro número pelo segundo número
 const divisao = function(num1, num2) {
     return num1 / num2;
 }
